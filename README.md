@@ -10,3 +10,7 @@ the parts look like this:
 )
 
 Part LEFT and RIGHT are mirror images of each other, and one has a little bump on the top to tell them apart. 
+
+
+
+![carbon copy](https://hungry-archimedes-73118b.netlify.com/works/carbon-copy/carbon-copy-1--plummer-fernandez.jpg)
